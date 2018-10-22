@@ -10,7 +10,7 @@ namespace Lesson4
     {
         static void Main(string[] args)
         {
-            task4();
+            menu();
         }
     }
 }
