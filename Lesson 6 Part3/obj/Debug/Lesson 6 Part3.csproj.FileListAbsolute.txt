@@ -1,0 +1,6 @@
+C:\Users\Uio443\source\repos\Lesson 6\Lesson 6 Part3\bin\Debug\Lesson 6 Part3.exe.config
+C:\Users\Uio443\source\repos\Lesson 6\Lesson 6 Part3\bin\Debug\Lesson 6 Part3.exe
+C:\Users\Uio443\source\repos\Lesson 6\Lesson 6 Part3\bin\Debug\Lesson 6 Part3.pdb
+C:\Users\Uio443\source\repos\Lesson 6\Lesson 6 Part3\obj\Debug\Lesson 6 Part3.csproj.CoreCompileInputs.cache
+C:\Users\Uio443\source\repos\Lesson 6\Lesson 6 Part3\obj\Debug\Lesson 6 Part3.exe
+C:\Users\Uio443\source\repos\Lesson 6\Lesson 6 Part3\obj\Debug\Lesson 6 Part3.pdb
