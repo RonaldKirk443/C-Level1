@@ -1,9 +1,0 @@
-C:\Users\Uio443\source\repos\Lesson5\Lesson5\obj\Debug\Lesson5.csprojAssemblyReference.cache
-C:\Users\Uio443\source\repos\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.CoreCompileInputs.cache
-C:\Users\Uio443\source\repos\Lesson5\Lesson5\bin\Debug\Lesson5.exe.config
-C:\Users\Uio443\source\repos\Lesson5\Lesson5\bin\Debug\Lesson5.exe
-C:\Users\Uio443\source\repos\Lesson5\Lesson5\bin\Debug\Lesson5.pdb
-C:\Users\Uio443\source\repos\Lesson5\Lesson5\obj\Debug\Lesson5.exe
-C:\Users\Uio443\source\repos\Lesson5\Lesson5\obj\Debug\Lesson5.pdb
-C:\Users\Uio443\source\repos\Lesson5\Lesson5\bin\Debug\Lesson5.exe.CodeAnalysisLog.xml
-C:\Users\Uio443\source\repos\Lesson5\Lesson5\bin\Debug\Lesson5.exe.lastcodeanalysissucceeded
