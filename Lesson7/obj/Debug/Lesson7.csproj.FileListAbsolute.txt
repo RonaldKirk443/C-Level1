@@ -1,0 +1,18 @@
+C:\Users\zaaza_000\Desktop\Lesson7\Lesson7\bin\Debug\Lesson7.exe
+C:\Users\zaaza_000\Desktop\Lesson7\Lesson7\bin\Debug\Lesson7.pdb
+C:\Users\zaaza_000\Desktop\Lesson7\Lesson7\obj\Debug\Lesson7.csprojAssemblyReference.cache
+C:\Users\zaaza_000\Desktop\Lesson7\Lesson7\obj\Debug\Lesson7.Properties.Resources.resources
+C:\Users\zaaza_000\Desktop\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.GenerateResource.cache
+C:\Users\zaaza_000\Desktop\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\zaaza_000\Desktop\Lesson7\Lesson7\obj\Debug\Lesson7.exe
+C:\Users\zaaza_000\Desktop\Lesson7\Lesson7\obj\Debug\Lesson7.pdb
+C:\Users\zaaza_000\Desktop\Lesson7\Lesson7\obj\Debug\Lesson7.fMain.resources
+C:\Users\Uio443\Desktop\New folder\Lesson7\Lesson7\Lesson7\bin\Debug\Lesson7.exe
+C:\Users\Uio443\Desktop\New folder\Lesson7\Lesson7\Lesson7\bin\Debug\Lesson7.pdb
+C:\Users\Uio443\Desktop\New folder\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.csprojAssemblyReference.cache
+C:\Users\Uio443\Desktop\New folder\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.fMain.resources
+C:\Users\Uio443\Desktop\New folder\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.Properties.Resources.resources
+C:\Users\Uio443\Desktop\New folder\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.GenerateResource.cache
+C:\Users\Uio443\Desktop\New folder\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\Uio443\Desktop\New folder\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.exe
+C:\Users\Uio443\Desktop\New folder\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.pdb
